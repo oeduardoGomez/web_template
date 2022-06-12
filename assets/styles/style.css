@@ -1,0 +1,32 @@
+:root{
+
+    --back:#F8F9FE;
+    --green:#00D874;
+    --purple:#5102F9;
+
+}
+
+/*background: rgb(2,0,36);
+background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(44,4,102,1) 54%, rgba(50,5,111,1) 100%);*/
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color: white;
+}
+html{
+    scroll-behavior: smooth;
+    scroll-margin-left: 10%;
+}
+
+*{
+    margin: 0;
+}
+
+ul{
+    
+    color: white;
+    margin-left: 34%;
+    width: 60%;
+    vertical-align: middle;
+    padding-top: 1%;
+}
